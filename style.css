@@ -336,23 +336,50 @@ a.SolutionTrigger:hover{
   padding: 3vw;
 }
 
-.WarningPage3{
-  background-image: url(possible.jpg);
-  background-size: cover;
-  width: 100%;
-  height: 100%;
-  display: flex;
-  justify-content: center;
-}
-
 .line5{
-  width: 32vw;
+  width: 45vw;
   color: white;
   border: 0.3px solid white;
   margin-top: 5vh;
   padding: 3vw;
   display: flex;
+  font-weight: 600;
   font-family: 'Anek Tamil', sans-serif;
+}
+
+.line6{
+  width: 45vw;
+  color: white;
+  font-weight: 600;
+  border: 0.3px solid white;
+  margin-top: 5vh;
+  margin-left: 20vw;
+  padding: 3vw;
+  display: flex;
+  font-family: 'Anek Tamil', sans-serif;
+  margin-bottom: 5vh;
+}
+
+.WarningPage3{
+  background-image: url(possible.jpg);
+  background-size: cover;
+  color: white;
+  font-family: 'Anek Tamil', sans-serif;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.line7{
+  display: flex;
+  justify-content: center;
+  width: 20vw;
+  border: 0.3px solid white;
+  font-size: 2.4vw;
+  font-weight: 200;
+  margin: 20vw;
+  padding:4vw;
 }
 
 /*SolutionPage*/
