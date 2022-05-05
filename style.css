@@ -329,6 +329,8 @@ a.SolutionTrigger:hover{
   border: 0.3px solid white;
   margin-top: 8vh;
   padding: 3vw;
+  background-color: rgba(210, 42, 219, 0.1);
+  font-size:1.4vw;
 }
 
 .line4{
@@ -340,6 +342,8 @@ a.SolutionTrigger:hover{
   border: 0.3px solid white;
   margin-top: 8vh;
   padding: 3vw;
+  background-color: rgba(210, 42, 219, 0.1);
+  font-size:1.4vw;
 }
 
 .line5{
@@ -351,6 +355,8 @@ a.SolutionTrigger:hover{
   display: flex;
   font-weight: 600;
   font-family: 'Anek Tamil', sans-serif;
+  background-color: rgba(210, 42, 219, 0.1);
+  font-size:1.4vw;
 }
 
 .line6{
@@ -364,6 +370,8 @@ a.SolutionTrigger:hover{
   display: flex;
   font-family: 'Anek Tamil', sans-serif;
   margin-bottom: 5vh;
+  background-color: rgba(210, 42, 219, 0.1);
+  font-size:1.4vw;
 }
 
 .WarningPage03{
